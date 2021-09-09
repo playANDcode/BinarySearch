@@ -8,7 +8,7 @@ So here's what I created:
 
 We are not removing values in array that are to be disregarded
 
-Instead, we assume it by making the program think 
+Instead, we assume the removal of values by making the program think 
 
     -  we are reducing the size of the array
     
