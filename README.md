@@ -1,2 +1,2 @@
 # BinarySearch
-My first attempt of making my own algorithm
+My attempts at making my own Binary Search Algorithm
